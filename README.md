@@ -8,7 +8,9 @@ It uses:
 - FAISS Vector DB
 
 Testing on sofcopy of Reinforcement Learning Book:
+
 Pages: 162
+
 Size: 8.7 MB
 
 Output:
