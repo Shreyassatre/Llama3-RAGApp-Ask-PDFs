@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+python-dotenv
+PyPDF2
+cohere
+pypdf
+faiss-cpu
